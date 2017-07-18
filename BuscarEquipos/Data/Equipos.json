@@ -4106,30 +4106,8 @@
           "error": null
         }
       ],
-      "stationMatches": {
-        "pickUpLocations": [
-          {
-            "city": {
-              "name": "Houston (Hobby), TX - HOU",
-              "state": "TX"
-            },
-            "name": "Houston (Hobby)",
-            "code": "HOU"
-          }
-        ],
-        "returnLocations": [
-          {
-            "city": {
-              "name": "Houston (Hobby), TX - HOU",
-              "state": "TX"
-            },
-            "name": "Houston (Hobby)",
-            "code": "HOU"
-          }
-        ]
-      }
+     
     }
   },
-  "success": true,
-  "notifications": null
+
 }
