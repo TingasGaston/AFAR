@@ -4,6 +4,7 @@
 
 	<title>Buscar equipos</title>
 	<link rel="stylesheet" type="text/css" href="css/equipos.css">
+	<script src="buscarEquipo.js"></script>
 </head>
 	<body>
 		<header>
@@ -24,7 +25,7 @@
 				</tr>
 				<tr>
 					<td>
-						<form action="buscarEquipo.js"	method="post">
+						<form action="js/buscarEquipo.js"	method="post">
 							<label>Nombre equipo:</label>
 							<div>
 								<input type="text" name="nombreEquipo">
@@ -51,7 +52,7 @@
 								</div>
 							<br>
 							<div>
-								<input type="submit" name="Buscar" value="Buscar">
+								<input type="submit" name="Buscar" value="Buscar" onclick="buscarEquipo()">
 							</div>
 						</form>
 					
@@ -64,7 +65,7 @@
 				</tr>
 				<tr>
 					<td>
-						<form action="buscarId.js"	method="post">
+						<form action="js/buscarId.js"	method="post">
 							<label>Id equipo:</label>
 						<div>
 							<input type="text" name="Nombre">
