@@ -2,13 +2,31 @@ label {
 
 	font-size: 16px;
 	font-family: Verdana;
-	font-style: arial;
+	font-weight: bold;
 	color: black;
-	background: #3399FF;
+	/*background-color: #3399FF;*/
 
 }
 
 h1 {
 
 	font-family: arial;
+	background-color: 3399ff;
+}
+
+h2 {
+
+	font-family: arial;
+	font-style: italic;
+	/*background-color: #3399FF;*/
+
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: left;
+}
+
+th{
+	background-color: #3399FF;
 }

@@ -1,0 +1,4113 @@
+{
+  "data": {
+    "corporateTravelPolicies": null,
+    "searchResults": {
+      "carSearchResults": [
+        {
+          "name": "Avis",
+          "code": "AVIS",
+          "carsForEachCategory": {
+            "MINIVAN": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": null,
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "2E",
+              "referenceId": "MVAR",
+              "name": "Group V - Chrysler Town and Country or similar",
+              "price": {
+                "totalPrice": "160.00",
+                "totalPriceWithTaxes": "207.98",
+                "taxes": [
+                  {
+                    "value": "18.08",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "27.13",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "160.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "160.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": null,
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "MVAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "PREMIUM": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": null,
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "2A",
+              "referenceId": "PCAR",
+              "name": "Group G - Ford Taurus LTD or similar",
+              "price": {
+                "totalPrice": "107.00",
+                "totalPriceWithTaxes": "140.27",
+                "taxes": [
+                  {
+                    "value": "12.20",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "18.30",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "107.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "107.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": null,
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "PCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "MIDSIZE_SUV": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": null,
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "2E",
+              "referenceId": "IFAR",
+              "name": "Group F - Ford Escape or similar",
+              "price": {
+                "totalPrice": "103.00",
+                "totalPriceWithTaxes": "135.15",
+                "taxes": [
+                  {
+                    "value": "11.75",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "17.63",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "103.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "103.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": null,
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "IFAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "COMPACT": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": null,
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "VS",
+              "referenceId": "CCAR",
+              "name": "Group B - Ford Focus or similar",
+              "price": {
+                "totalPrice": "80.00",
+                "totalPriceWithTaxes": "105.77",
+                "taxes": [
+                  {
+                    "value": "9.20",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "13.80",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "80.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "80.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": null,
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "CCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "ECONOMY": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": null,
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "VS",
+              "referenceId": "ECAR",
+              "name": "Group A - Ford Fiesta or similar",
+              "price": {
+                "totalPrice": "80.00",
+                "totalPriceWithTaxes": "105.77",
+                "taxes": [
+                  {
+                    "value": "9.20",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "13.80",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "80.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "80.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": null,
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "ECAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "CONVERTIBLE": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": null,
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "VS",
+              "referenceId": "STAR",
+              "name": "Group K - Ford Mustang Convertible or similar",
+              "price": {
+                "totalPrice": "176.00",
+                "totalPriceWithTaxes": "228.42",
+                "taxes": [
+                  {
+                    "value": "19.86",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "29.79",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "176.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "176.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": null,
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "STAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "STANDARD_SUV": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": null,
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "VS",
+              "referenceId": "SFAR",
+              "name": "Group W - Ford Edge or similar",
+              "price": {
+                "totalPrice": "113.00",
+                "totalPriceWithTaxes": "147.92",
+                "taxes": [
+                  {
+                    "value": "12.86",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "19.29",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "113.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "113.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": null,
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "SFAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "FULLSIZE": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": null,
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "2A",
+              "referenceId": "FCAR",
+              "name": "Group E - Ford Fusion or similar",
+              "price": {
+                "totalPrice": "105.00",
+                "totalPriceWithTaxes": "137.70",
+                "taxes": [
+                  {
+                    "value": "11.97",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "17.96",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "105.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "105.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": null,
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "FCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "MIDSIZE": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": null,
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "2A",
+              "referenceId": "ICAR",
+              "name": "Group C - Chevrolet Cruze or similar",
+              "price": {
+                "totalPrice": "105.00",
+                "totalPriceWithTaxes": "137.70",
+                "taxes": [
+                  {
+                    "value": "11.97",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "17.96",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "105.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "105.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": null,
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "ICAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "FULLSIZE_SUV": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": null,
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "2E",
+              "referenceId": "FFAR",
+              "name": "Group Z - Chevrolet Tahoe or similar",
+              "price": {
+                "totalPrice": "145.86",
+                "totalPriceWithTaxes": "189.91",
+                "taxes": [
+                  {
+                    "value": "16.51",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "24.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "145.86",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "145.86",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": null,
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "FFAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "LUXURY": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": null,
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "2A",
+              "referenceId": "LCAR",
+              "name": "Group H - Lincoln MKZ or similar",
+              "price": {
+                "totalPrice": "107.00",
+                "totalPriceWithTaxes": "140.27",
+                "taxes": [
+                  {
+                    "value": "12.20",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "18.30",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "107.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "107.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": null,
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "LCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            }
+          },
+          "warnings": [],
+          "error": null
+        },
+        {
+          "name": "Advantage",
+          "code": "AD",
+          "carsForEachCategory": {
+            "MINIVAN": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "hasDropCharge": false
+              },
+              "rateQualifier": "",
+              "referenceId": "D1@X0000X0000@D@S@N@23@@T",
+              "name": null,
+              "price": {
+                "totalPrice": "101.11",
+                "totalPriceWithTaxes": "101.11",
+                "taxes": [],
+                "rateBreakdown": {
+                  "largestUnitCharge": "76.00",
+                  "largestUnitName": "DAY"
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "MVAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "MIDSIZE_SUV": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "hasDropCharge": false
+              },
+              "rateQualifier": "",
+              "referenceId": "D1@X0000X0000@D@S@N@23@@T",
+              "name": null,
+              "price": {
+                "totalPrice": "88.19",
+                "totalPriceWithTaxes": "88.19",
+                "taxes": [],
+                "rateBreakdown": {
+                  "largestUnitCharge": "66.10",
+                  "largestUnitName": "DAY"
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "IFAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "COMPACT": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "hasDropCharge": false
+              },
+              "rateQualifier": "",
+              "referenceId": "D1@X0000X0000@D@S@N@23@@T",
+              "name": null,
+              "price": {
+                "totalPrice": "58.97",
+                "totalPriceWithTaxes": "58.97",
+                "taxes": [],
+                "rateBreakdown": {
+                  "largestUnitCharge": "43.72",
+                  "largestUnitName": "DAY"
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "CCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "ECONOMY": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "hasDropCharge": false
+              },
+              "rateQualifier": "",
+              "referenceId": "D1@X0000X0000@D@S@N@23@@T",
+              "name": null,
+              "price": {
+                "totalPrice": "58.90",
+                "totalPriceWithTaxes": "58.90",
+                "taxes": [],
+                "rateBreakdown": {
+                  "largestUnitCharge": "43.67",
+                  "largestUnitName": "DAY"
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "ECAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "STANDARD_SUV": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "hasDropCharge": false
+              },
+              "rateQualifier": "",
+              "referenceId": "D1@X0000X0000@D@S@N@23@@T",
+              "name": null,
+              "price": {
+                "totalPrice": "106.40",
+                "totalPriceWithTaxes": "106.40",
+                "taxes": [],
+                "rateBreakdown": {
+                  "largestUnitCharge": "80.05",
+                  "largestUnitName": "DAY"
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "SFAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "FULLSIZE": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "hasDropCharge": false
+              },
+              "rateQualifier": "",
+              "referenceId": "D1@X0000X0000@D@S@N@23@@T",
+              "name": null,
+              "price": {
+                "totalPrice": "84.75",
+                "totalPriceWithTaxes": "84.75",
+                "taxes": [],
+                "rateBreakdown": {
+                  "largestUnitCharge": "63.47",
+                  "largestUnitName": "DAY"
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "FCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "MIDSIZE": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "hasDropCharge": false
+              },
+              "rateQualifier": "",
+              "referenceId": "D1@X0000X0000@D@S@N@23@@T",
+              "name": null,
+              "price": {
+                "totalPrice": "77.76",
+                "totalPriceWithTaxes": "77.76",
+                "taxes": [],
+                "rateBreakdown": {
+                  "largestUnitCharge": "58.11",
+                  "largestUnitName": "DAY"
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "ICAR",
+              "termsAndConditions": [],
+              "vendor": null
+            }
+          },
+          "warnings": [],
+          "error": null
+        },
+        {
+          "name": "Payless",
+          "code": "ZA",
+          "carsForEachCategory": {
+            "MIDSIZE_SUV": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "hasDropCharge": false
+              },
+              "rateQualifier": "",
+              "referenceId": "1D@X0000X0000@D@S@N@1@@T",
+              "name": null,
+              "price": {
+                "totalPrice": "91.74",
+                "totalPriceWithTaxes": "91.74",
+                "taxes": [],
+                "rateBreakdown": {
+                  "largestUnitCharge": "70.62",
+                  "largestUnitName": "DAY"
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "IFAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "COMPACT": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "hasDropCharge": false
+              },
+              "rateQualifier": "",
+              "referenceId": "1D@X0000X0000@D@S@N@1@@T",
+              "name": null,
+              "price": {
+                "totalPrice": "102.35",
+                "totalPriceWithTaxes": "102.35",
+                "taxes": [],
+                "rateBreakdown": {
+                  "largestUnitCharge": "79.11",
+                  "largestUnitName": "DAY"
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "CCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "ECONOMY": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "hasDropCharge": false
+              },
+              "rateQualifier": "",
+              "referenceId": "1D@X0000X0000@D@S@N@1@@T",
+              "name": null,
+              "price": {
+                "totalPrice": "102.35",
+                "totalPriceWithTaxes": "102.35",
+                "taxes": [],
+                "rateBreakdown": {
+                  "largestUnitCharge": "79.11",
+                  "largestUnitName": "DAY"
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "ECAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "FULLSIZE": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "hasDropCharge": false
+              },
+              "rateQualifier": "",
+              "referenceId": "1D@X0000X0000@D@S@N@1@@T",
+              "name": null,
+              "price": {
+                "totalPrice": "125.37",
+                "totalPriceWithTaxes": "125.37",
+                "taxes": [],
+                "rateBreakdown": {
+                  "largestUnitCharge": "97.52",
+                  "largestUnitName": "DAY"
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "FCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "MIDSIZE": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "hasDropCharge": false
+              },
+              "rateQualifier": "",
+              "referenceId": "1D@X0000X0000@D@S@N@1@@T",
+              "name": null,
+              "price": {
+                "totalPrice": "113.84",
+                "totalPriceWithTaxes": "113.84",
+                "taxes": [],
+                "rateBreakdown": {
+                  "largestUnitCharge": "88.30",
+                  "largestUnitName": "DAY"
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "ICAR",
+              "termsAndConditions": [],
+              "vendor": null
+            }
+          },
+          "warnings": [],
+          "error": null
+        },
+        {
+          "name": "Budget",
+          "code": "BUDGET",
+          "carsForEachCategory": {
+            "MINIVAN": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.25",
+                  "unit": "Mile",
+                  "freeMileage": "150",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "AO",
+              "referenceId": "MVAR",
+              "name": "Group V - DODGE GRAND CARAVAN or similar",
+              "price": {
+                "totalPrice": "169.00",
+                "totalPriceWithTaxes": "219.48",
+                "taxes": [
+                  {
+                    "value": "19.08",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "28.63",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "169.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "169.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.25",
+                "unit": "Mile",
+                "freeMileage": "150",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "MVAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "PREMIUM": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": null,
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "FN",
+              "referenceId": "PCAR",
+              "name": "Group G - FORD TAURUS LTD FWD or similar",
+              "price": {
+                "totalPrice": "103.00",
+                "totalPriceWithTaxes": "135.15",
+                "taxes": [
+                  {
+                    "value": "11.75",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "17.63",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "103.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "103.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": null,
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "PCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "MIDSIZE_SUV": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": null,
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "FN",
+              "referenceId": "IFAR",
+              "name": "Group F - FORD ESCAPE or similar",
+              "price": {
+                "totalPrice": "91.00",
+                "totalPriceWithTaxes": "119.82",
+                "taxes": [
+                  {
+                    "value": "10.42",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "15.63",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "91.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "91.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": null,
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "IFAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "COMPACT": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": null,
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "FN",
+              "referenceId": "CCAR",
+              "name": "Group B - FORD FOCUS or similar",
+              "price": {
+                "totalPrice": "67.00",
+                "totalPriceWithTaxes": "89.15",
+                "taxes": [
+                  {
+                    "value": "7.75",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "11.63",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "67.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "67.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": null,
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "CCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "ECONOMY": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": null,
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "FN",
+              "referenceId": "ECAR",
+              "name": "Group A - FORD FIESTA SEDAN or similar",
+              "price": {
+                "totalPrice": "67.00",
+                "totalPriceWithTaxes": "89.15",
+                "taxes": [
+                  {
+                    "value": "7.75",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "11.63",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "67.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "67.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": null,
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "ECAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "CONVERTIBLE": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": null,
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "FN",
+              "referenceId": "STAR",
+              "name": "Group K - FORD MUSTANG CON  2DR/4PSGR or similar",
+              "price": {
+                "totalPrice": "175.00",
+                "totalPriceWithTaxes": "227.15",
+                "taxes": [
+                  {
+                    "value": "19.75",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "29.63",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "175.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "175.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": null,
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "STAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "STANDARD_SUV": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": null,
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "AO",
+              "referenceId": "SFAR",
+              "name": "Group W - FORD EDGE or similar",
+              "price": {
+                "totalPrice": "78.00",
+                "totalPriceWithTaxes": "103.20",
+                "taxes": [
+                  {
+                    "value": "8.97",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "13.46",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "78.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "78.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": null,
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "SFAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "FULLSIZE": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": null,
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "FN",
+              "referenceId": "FCAR",
+              "name": "Group E - FORD FUSION FWD or similar",
+              "price": {
+                "totalPrice": "94.50",
+                "totalPriceWithTaxes": "124.29",
+                "taxes": [
+                  {
+                    "value": "10.81",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "16.21",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "94.50",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "94.50",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": null,
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "FCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "MIDSIZE": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": null,
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "AQ",
+              "referenceId": "ICAR",
+              "name": "Group C - HYUNDAI ELANTRA or similar",
+              "price": {
+                "totalPrice": "88.50",
+                "totalPriceWithTaxes": "116.62",
+                "taxes": [
+                  {
+                    "value": "10.14",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "15.21",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "88.50",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "88.50",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": null,
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "ICAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "FULLSIZE_SUV": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": null,
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "FN",
+              "referenceId": "FFAR",
+              "name": "Group Z - CHEVROLET TAHOE or similar",
+              "price": {
+                "totalPrice": "132.30",
+                "totalPriceWithTaxes": "172.59",
+                "taxes": [
+                  {
+                    "value": "15.01",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "22.51",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "132.30",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "132.30",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": null,
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "FFAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "LUXURY": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": null,
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "noShowFee": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "FN",
+              "referenceId": "LCAR",
+              "name": "Group H - LINCOLN MKZ 2WD or similar",
+              "price": {
+                "totalPrice": "85.00",
+                "totalPriceWithTaxes": "112.15",
+                "taxes": [
+                  {
+                    "value": "9.75",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Airport Concession Fee"
+                  },
+                  {
+                    "value": "14.63",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Local Tax"
+                  },
+                  {
+                    "value": "2.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEH LICENSE FEE"
+                  },
+                  {
+                    "value": "0.77",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY RECOVERY FEE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "85.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "85.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": null,
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "LCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            }
+          },
+          "warnings": [],
+          "error": null
+        },
+        {
+          "name": "Hertz",
+          "code": "HERTZ",
+          "carsForEachCategory": {
+            "MINIVAN": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "DK4Q045C9U26144-2307",
+              "name": "R NISSAN QUEST OR SIMILAR",
+              "price": {
+                "totalPrice": "174.07",
+                "totalPriceWithTaxes": "226.45",
+                "taxes": [
+                  {
+                    "value": "29.54",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Tax"
+                  },
+                  {
+                    "value": "19.51",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "AIRPORT CONCESSION RECOVERY:"
+                  },
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEHICLE LICENSING FEE RECOVERY:"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE:"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "174.07",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "174.07",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "MVAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "PREMIUM": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "DK4Q045C9U26144-2305",
+              "name": "G CHEVROLET IMPALA OR SIMILAR",
+              "price": {
+                "totalPrice": "105.86",
+                "totalPriceWithTaxes": "139.29",
+                "taxes": [
+                  {
+                    "value": "18.17",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Tax"
+                  },
+                  {
+                    "value": "11.93",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "AIRPORT CONCESSION RECOVERY:"
+                  },
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEHICLE LICENSING FEE RECOVERY:"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE:"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "105.86",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "105.86",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "PCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "MIDSIZE_SUV": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "DK4Q045C9U26144-2310",
+              "name": "Q4 JEEP COMPASS OR SIMILAR",
+              "price": {
+                "totalPrice": "105.86",
+                "totalPriceWithTaxes": "139.29",
+                "taxes": [
+                  {
+                    "value": "18.17",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Tax"
+                  },
+                  {
+                    "value": "11.93",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "AIRPORT CONCESSION RECOVERY:"
+                  },
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEHICLE LICENSING FEE RECOVERY:"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE:"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "105.86",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "105.86",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "IFAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "COMPACT": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "DK4Q045C9U26144-2302",
+              "name": "B NISSAN VERSA OR SIMILAR",
+              "price": {
+                "totalPrice": "76.00",
+                "totalPriceWithTaxes": "101.13",
+                "taxes": [
+                  {
+                    "value": "13.19",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Tax"
+                  },
+                  {
+                    "value": "8.61",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "AIRPORT CONCESSION RECOVERY:"
+                  },
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEHICLE LICENSING FEE RECOVERY:"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE:"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "76.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "76.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "CCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "ECONOMY": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "DK4Q045C9U26144-2301",
+              "name": "A CHEVROLET SPARK OR SIMILAR",
+              "price": {
+                "totalPrice": "76.00",
+                "totalPriceWithTaxes": "101.13",
+                "taxes": [
+                  {
+                    "value": "13.19",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Tax"
+                  },
+                  {
+                    "value": "8.61",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "AIRPORT CONCESSION RECOVERY:"
+                  },
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEHICLE LICENSING FEE RECOVERY:"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE:"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "76.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "76.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "ECAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "FULLSIZE_VAN": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "DK4Q045C9U26144-2309",
+              "name": "M FORD TRANSIT 12 PSGR OR SIMILAR",
+              "price": {
+                "totalPrice": "216.09",
+                "totalPriceWithTaxes": "280.37",
+                "taxes": [
+                  {
+                    "value": "36.57",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Tax"
+                  },
+                  {
+                    "value": "24.38",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "AIRPORT CONCESSION RECOVERY:"
+                  },
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEHICLE LICENSING FEE RECOVERY:"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE:"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "216.09",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "216.09",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "FVAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "CONVERTIBLE": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "DK4Q045C9U26144-2308",
+              "name": "U CHEVROLET CAMARO CONV. OR SIMILAR",
+              "price": {
+                "totalPrice": "115.54",
+                "totalPriceWithTaxes": "151.66",
+                "taxes": [
+                  {
+                    "value": "19.78",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Tax"
+                  },
+                  {
+                    "value": "13.01",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "AIRPORT CONCESSION RECOVERY:"
+                  },
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEHICLE LICENSING FEE RECOVERY:"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE:"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "115.54",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "115.54",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "STAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "FULLSIZE": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "DK4Q045C9U26144-2304",
+              "name": "F CHRYSLER 200 OR SIMILAR",
+              "price": {
+                "totalPrice": "104.86",
+                "totalPriceWithTaxes": "138.01",
+                "taxes": [
+                  {
+                    "value": "18.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Tax"
+                  },
+                  {
+                    "value": "11.82",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "AIRPORT CONCESSION RECOVERY:"
+                  },
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEHICLE LICENSING FEE RECOVERY:"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE:"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "104.86",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "104.86",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "FCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "MIDSIZE": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "DK4Q045C9U26144-2303",
+              "name": "C TOYOTA COROLLA OR SIMILAR",
+              "price": {
+                "totalPrice": "104.86",
+                "totalPriceWithTaxes": "138.01",
+                "taxes": [
+                  {
+                    "value": "18.00",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Tax"
+                  },
+                  {
+                    "value": "11.82",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "AIRPORT CONCESSION RECOVERY:"
+                  },
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEHICLE LICENSING FEE RECOVERY:"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE:"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "104.86",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "104.86",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "ICAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "LUXURY": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "DK4Q045C9U26144-2306",
+              "name": "I CHRYSLER 300 OR SIMILAR",
+              "price": {
+                "totalPrice": "105.86",
+                "totalPriceWithTaxes": "139.29",
+                "taxes": [
+                  {
+                    "value": "18.17",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "Tax"
+                  },
+                  {
+                    "value": "11.93",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "AIRPORT CONCESSION RECOVERY:"
+                  },
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "VEHICLE LICENSING FEE RECOVERY:"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE:"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "105.86",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "105.86",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "LCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            }
+          },
+          "warnings": [
+            {
+              "shortText": "MIN AGE 20 - MOST CAR CLASSES. 20-24 RATE DIFFERENTIAL APPLIES",
+              "recordId": "613",
+              "type": "1"
+            },
+            {
+              "shortText": "FOR RENTERS UNDER 25 YRS OF AGE SEE KEYWORD AGE",
+              "recordId": "201",
+              "type": "1"
+            },
+            {
+              "shortText": "HERTZ HOU NOW OFFERS ULTIMATE CHOICE(TM). YOU CAN PICK YOUR CAR",
+              "recordId": "886",
+              "type": "1"
+            }
+          ],
+          "error": null
+        },
+        {
+          "name": "Thrifty",
+          "code": "THRIFTY",
+          "carsForEachCategory": {
+            "MINIVAN": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "129758702",
+              "name": "Nissan Quest",
+              "price": {
+                "totalPrice": "160.40",
+                "totalPriceWithTaxes": "208.98",
+                "taxes": [
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "TAG RECOVERY FEE"
+                  },
+                  {
+                    "value": "27.26",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "RENTAL TAX"
+                  },
+                  {
+                    "value": "17.99",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "CONCESSN RECOV FEE"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "160.40",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "160.40",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "IVAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "PREMIUM": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "129758702",
+              "name": "Chevrolet Impala",
+              "price": {
+                "totalPrice": "100.00",
+                "totalPriceWithTaxes": "131.80",
+                "taxes": [
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "TAG RECOVERY FEE"
+                  },
+                  {
+                    "value": "17.19",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "RENTAL TAX"
+                  },
+                  {
+                    "value": "11.28",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "CONCESSN RECOV FEE"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "100.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "100.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "PCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "MIDSIZE_SUV": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "129758702",
+              "name": "Jeep Compass",
+              "price": {
+                "totalPrice": "100.00",
+                "totalPriceWithTaxes": "131.80",
+                "taxes": [
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "TAG RECOVERY FEE"
+                  },
+                  {
+                    "value": "17.19",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "RENTAL TAX"
+                  },
+                  {
+                    "value": "11.28",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "CONCESSN RECOV FEE"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "100.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "100.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "IFAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "COMPACT": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "129758702",
+              "name": "Nissan Versa",
+              "price": {
+                "totalPrice": "51.72",
+                "totalPriceWithTaxes": "70.10",
+                "taxes": [
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "TAG RECOVERY FEE"
+                  },
+                  {
+                    "value": "9.14",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "RENTAL TAX"
+                  },
+                  {
+                    "value": "5.91",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "CONCESSN RECOV FEE"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "51.72",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "51.72",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "CCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "ECONOMY": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "129758702",
+              "name": "Chevrolet Spark",
+              "price": {
+                "totalPrice": "51.72",
+                "totalPriceWithTaxes": "70.10",
+                "taxes": [
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "TAG RECOVERY FEE"
+                  },
+                  {
+                    "value": "9.14",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "RENTAL TAX"
+                  },
+                  {
+                    "value": "5.91",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "CONCESSN RECOV FEE"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "51.72",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "51.72",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "ECAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "FULLSIZE": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "129758702",
+              "name": "Chrysler 200",
+              "price": {
+                "totalPrice": "99.00",
+                "totalPriceWithTaxes": "130.51",
+                "taxes": [
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "TAG RECOVERY FEE"
+                  },
+                  {
+                    "value": "17.02",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "RENTAL TAX"
+                  },
+                  {
+                    "value": "11.16",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "CONCESSN RECOV FEE"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "99.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "99.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "FCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "MIDSIZE": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "129758702",
+              "name": "Toyota Corolla",
+              "price": {
+                "totalPrice": "97.00",
+                "totalPriceWithTaxes": "127.96",
+                "taxes": [
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "TAG RECOVERY FEE"
+                  },
+                  {
+                    "value": "16.69",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "RENTAL TAX"
+                  },
+                  {
+                    "value": "10.94",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "CONCESSN RECOV FEE"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "97.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "97.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "ICAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "LUXURY": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "129758702",
+              "name": "Chrysler 300",
+              "price": {
+                "totalPrice": "100.00",
+                "totalPriceWithTaxes": "131.80",
+                "taxes": [
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "TAG RECOVERY FEE"
+                  },
+                  {
+                    "value": "17.19",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "RENTAL TAX"
+                  },
+                  {
+                    "value": "11.28",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "CONCESSN RECOV FEE"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "100.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "100.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "LCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            }
+          },
+          "warnings": [],
+          "error": null
+        },
+        {
+          "name": "Enterprise",
+          "code": "ET",
+          "carsForEachCategory": {},
+          "warnings": [],
+          "error": {
+            "code": "UNAVAILABLE_CAR_TYPE",
+            "message": "Vehicle type unavailable"
+          }
+        },
+        {
+          "name": "Alamo",
+          "code": "ALAMO",
+          "carsForEachCategory": {},
+          "warnings": [],
+          "error": {
+            "code": "UNAVAILABLE_CAR_TYPE",
+            "message": "Vehicle type unavailable"
+          }
+        },
+        {
+          "name": "Fox",
+          "code": "FX",
+          "carsForEachCategory": {},
+          "warnings": [],
+          "error": {
+            "code": "NO_AVAILABILITY",
+            "message": "No availability."
+          }
+        },
+        {
+          "name": "National",
+          "code": "ZL",
+          "carsForEachCategory": {},
+          "warnings": [],
+          "error": {
+            "code": "UNAVAILABLE_CAR_TYPE",
+            "message": "Vehicle type unavailable"
+          }
+        },
+        {
+          "name": "EZ",
+          "code": "EZ",
+          "carsForEachCategory": {
+            "MINIVAN": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "hasDropCharge": false
+              },
+              "rateQualifier": "",
+              "referenceId": "D1@X0000X0000@D@S@N@1@@O",
+              "name": null,
+              "price": {
+                "totalPrice": "101.11",
+                "totalPriceWithTaxes": "101.11",
+                "taxes": [],
+                "rateBreakdown": {
+                  "largestUnitCharge": "76.00",
+                  "largestUnitName": "DAY"
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "MVAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "COMPACT": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "hasDropCharge": false
+              },
+              "rateQualifier": "",
+              "referenceId": "D1@X0000X0000@D@S@N@1@@O",
+              "name": null,
+              "price": {
+                "totalPrice": "58.99",
+                "totalPriceWithTaxes": "58.99",
+                "taxes": [],
+                "rateBreakdown": {
+                  "largestUnitCharge": "43.73",
+                  "largestUnitName": "DAY"
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "CCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "ECONOMY": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "hasDropCharge": false
+              },
+              "rateQualifier": "",
+              "referenceId": "D1@X0000X0000@D@S@N@1@@O",
+              "name": null,
+              "price": {
+                "totalPrice": "58.91",
+                "totalPriceWithTaxes": "58.91",
+                "taxes": [],
+                "rateBreakdown": {
+                  "largestUnitCharge": "43.68",
+                  "largestUnitName": "DAY"
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "ECAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "STANDARD_SUV": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "hasDropCharge": false
+              },
+              "rateQualifier": "",
+              "referenceId": "D1@X0000X0000@D@S@N@1@@O",
+              "name": null,
+              "price": {
+                "totalPrice": "106.42",
+                "totalPriceWithTaxes": "106.42",
+                "taxes": [],
+                "rateBreakdown": {
+                  "largestUnitCharge": "80.06",
+                  "largestUnitName": "DAY"
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "SFAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "FULLSIZE": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "hasDropCharge": false
+              },
+              "rateQualifier": "",
+              "referenceId": "D1@X0000X0000@D@S@N@1@@O",
+              "name": null,
+              "price": {
+                "totalPrice": "84.75",
+                "totalPriceWithTaxes": "84.75",
+                "taxes": [],
+                "rateBreakdown": {
+                  "largestUnitCharge": "63.47",
+                  "largestUnitName": "DAY"
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "FCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "MIDSIZE": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "hasDropCharge": false
+              },
+              "rateQualifier": "",
+              "referenceId": "D1@X0000X0000@D@S@N@1@@O",
+              "name": null,
+              "price": {
+                "totalPrice": "77.76",
+                "totalPriceWithTaxes": "77.76",
+                "taxes": [],
+                "rateBreakdown": {
+                  "largestUnitCharge": "58.11",
+                  "largestUnitName": "DAY"
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "ICAR",
+              "termsAndConditions": [],
+              "vendor": null
+            }
+          },
+          "warnings": [],
+          "error": null
+        },
+        {
+          "name": "Dollar",
+          "code": "DOLLAR",
+          "carsForEachCategory": {
+            "MINIVAN": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "129757350",
+              "name": "Nissan Quest",
+              "price": {
+                "totalPrice": "160.40",
+                "totalPriceWithTaxes": "208.98",
+                "taxes": [
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "TAG RECOVERY FEE"
+                  },
+                  {
+                    "value": "27.26",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "RENTAL TAX"
+                  },
+                  {
+                    "value": "17.99",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "CONCESSN RECOV FEE"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "160.40",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "160.40",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "IVAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "PREMIUM": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "129757350",
+              "name": "Chevrolet Impala",
+              "price": {
+                "totalPrice": "100.00",
+                "totalPriceWithTaxes": "131.80",
+                "taxes": [
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "TAG RECOVERY FEE"
+                  },
+                  {
+                    "value": "17.19",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "RENTAL TAX"
+                  },
+                  {
+                    "value": "11.28",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "CONCESSN RECOV FEE"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "100.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "100.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "PCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "MIDSIZE_SUV": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "129757350",
+              "name": "Jeep Compass",
+              "price": {
+                "totalPrice": "100.00",
+                "totalPriceWithTaxes": "131.80",
+                "taxes": [
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "TAG RECOVERY FEE"
+                  },
+                  {
+                    "value": "17.19",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "RENTAL TAX"
+                  },
+                  {
+                    "value": "11.28",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "CONCESSN RECOV FEE"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "100.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "100.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "IFAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "COMPACT": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "129757350",
+              "name": "Nissan Versa Note",
+              "price": {
+                "totalPrice": "58.18",
+                "totalPriceWithTaxes": "78.36",
+                "taxes": [
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "TAG RECOVERY FEE"
+                  },
+                  {
+                    "value": "10.22",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "RENTAL TAX"
+                  },
+                  {
+                    "value": "6.63",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "CONCESSN RECOV FEE"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "58.18",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "58.18",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "CCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "ECONOMY": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "129757350",
+              "name": "Chevrolet Spark",
+              "price": {
+                "totalPrice": "58.18",
+                "totalPriceWithTaxes": "78.36",
+                "taxes": [
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "TAG RECOVERY FEE"
+                  },
+                  {
+                    "value": "10.22",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "RENTAL TAX"
+                  },
+                  {
+                    "value": "6.63",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "CONCESSN RECOV FEE"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "58.18",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "58.18",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "ECAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "FULLSIZE": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "129757350",
+              "name": "Chrysler 200",
+              "price": {
+                "totalPrice": "99.00",
+                "totalPriceWithTaxes": "130.51",
+                "taxes": [
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "TAG RECOVERY FEE"
+                  },
+                  {
+                    "value": "17.02",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "RENTAL TAX"
+                  },
+                  {
+                    "value": "11.16",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "CONCESSN RECOV FEE"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "99.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "99.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "FCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "MIDSIZE": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "129757350",
+              "name": "Toyota Corolla",
+              "price": {
+                "totalPrice": "97.00",
+                "totalPriceWithTaxes": "127.96",
+                "taxes": [
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "TAG RECOVERY FEE"
+                  },
+                  {
+                    "value": "16.69",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "RENTAL TAX"
+                  },
+                  {
+                    "value": "10.94",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "CONCESSN RECOV FEE"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "97.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "97.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "ICAR",
+              "termsAndConditions": [],
+              "vendor": null
+            },
+            "LUXURY": {
+              "chargeFeeInfo": {
+                "mileageCharge": {
+                  "charge": "0.00",
+                  "unit": "Mile",
+                  "freeMileage": "Unlimited",
+                  "hasCharge": false,
+                  "hasFreeMileage": false
+                },
+                "dropCharge": "0.00",
+                "hasDropCharge": false
+              },
+              "rateQualifier": "RCUD1",
+              "referenceId": "129757350",
+              "name": "Chrysler 300",
+              "price": {
+                "totalPrice": "100.00",
+                "totalPriceWithTaxes": "131.80",
+                "taxes": [
+                  {
+                    "value": "1.84",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "TAG RECOVERY FEE"
+                  },
+                  {
+                    "value": "17.19",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "RENTAL TAX"
+                  },
+                  {
+                    "value": "11.28",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "CONCESSN RECOV FEE"
+                  },
+                  {
+                    "value": "1.49",
+                    "type": "R",
+                    "taxable": false,
+                    "name": "ENERGY SURCHARGE"
+                  }
+                ],
+                "rateBreakdown": {
+                  "largestUnitCharge": "100.00",
+                  "largestUnitName": "DAY",
+                  "rateLineItems": [
+                    {
+                      "quantity": "1",
+                      "charge": "100.00",
+                      "unit": "DAY"
+                    }
+                  ]
+                }
+              },
+              "hasAnyPromotion": false,
+              "discounts": [],
+              "mileageCharge": {
+                "charge": "0.00",
+                "unit": "Mile",
+                "freeMileage": "Unlimited",
+                "hasCharge": false,
+                "hasFreeMileage": false
+              },
+              "sippCode": "LCAR",
+              "termsAndConditions": [],
+              "vendor": null
+            }
+          },
+          "warnings": [],
+          "error": null
+        }
+      ],
+     
+    }
+  },
+
+}
