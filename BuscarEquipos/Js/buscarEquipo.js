@@ -1,3 +1,1 @@
-function buscarEquipo() {
-    document.getElementById("demo").innerHTML = "Paragraph changed.";
-}
+document.write("<p>Holas</p>");
